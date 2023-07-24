@@ -1,0 +1,13 @@
+## Model Information
+Authors: Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
+Paper: BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+Model code: M22
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+

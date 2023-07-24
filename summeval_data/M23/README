@@ -1,0 +1,13 @@
+## Model Information
+Authors: Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J. Liu
+Paper: PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
+Model code: M23
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+
