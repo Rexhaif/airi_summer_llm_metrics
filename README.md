@@ -19,3 +19,7 @@
 3. <code>MT0Regressor/experiment_5.ipynb</code> - эксперимент с основной конфигурацией mt0-base encoder+MLP
 4. <code>MT0Regressor/experiment_10.ipynb</code> - эксперимент с конфигурацией LoRA mt0-base encoder+MLP
 5. <code>MT0Regressor/experiment_12.ipynb</code> - эксперимент с конфигурацией LoRA mt0-large encoder+MLP
+# Инструкция LlaMa 2 chat GEMBA promts
+Содержание:
+1. <code>LlaMa_2_chat_enru_ende.ipynb</code> - ноутбук с экспериментом LlaMa 2 chat с GEMBA-промтом для языковых пар en-d, en-ru,zh-en
+2. LlaMa_2_chat_few_shot_promt_ende_enru_zhen.ipynb</code> - ноутбук с экспериментом LlaMa 2 chat с few shot промтом для языковых пар en-d, en-ru,zh-en
