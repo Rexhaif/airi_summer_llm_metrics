@@ -22,4 +22,4 @@
 # Инструкция LlaMa 2 chat GEMBA promts
 Содержание:
 1. <code>LlaMa_2_chat_enru_ende.ipynb</code> - ноутбук с экспериментом LlaMa 2 chat с GEMBA-промтом для языковых пар en-d, en-ru,zh-en
-2. LlaMa_2_chat_few_shot_promt_ende_enru_zhen.ipynb</code> - ноутбук с экспериментом LlaMa 2 chat с few shot промтом для языковых пар en-d, en-ru,zh-en
+2.  <code>LlaMa_2_chat_few_shot_promt_ende_enru_zhen.ipynb</code> - ноутбук с экспериментом LlaMa 2 chat с few shot промтом для языковых пар en-d, en-ru,zh-en
