@@ -2,6 +2,8 @@
 "Efficient LLM-based metrics for NLG" project at AIRI 2023 Summer School <br />
 [Презентация](https://docs.google.com/presentation/d/1HNTf9DLWdZIoHxJs9yREJllIuufMsnpHGo9o_seEV_s/edit?usp=sharing)
 ## Состав команды
+Ментор: Даниил Ларионов <br />
+Участники:
 1. Алешина Эллина
 2. Висков Даниил
 3. Илюхин Владислав
