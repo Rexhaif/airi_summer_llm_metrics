@@ -1,0 +1,7 @@
+loralib==0.1.1
+torch==1.13.1
+transformers==4.31.0
+scikit-learn==1.2.1
+scipy==1.10.0
+datasets==2.14.1
+wandb==0.15.7
